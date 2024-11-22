@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Politique de confidentialité de Cyber Connect, réseau social pour passionnés de cybersécurité.">
+    <title>Cyber Connect - Politique de confidentialité</title>
+    <style>
+        /* Styles généraux */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f9;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        /* En-tête */
+        header {
+            background: #1e3c72;
+            color: #fff;
+            padding: 15px 20px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+        }
+
+        header h1 {
+            margin: 0;
+        }
+
+        nav {
+            margin-top: 10px;
+        }
+
+        nav a {
+            color: #ffd700;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 16px;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        /* Contenu principal */
+        main {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        main h2 {
+            color: #1e3c72;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        main section {
+            margin-bottom: 20px;
+        }
+
+        main h3 {
+            color: #0056b3;
+            margin-bottom: 10px;
+        }
+
+        main p, main ul {
+            margin: 10px 0;
+        }
+
+        main ul {
+            list-style: disc;
+            padding-left: 20px;
+        }
+
+        main ul li {
+            margin-bottom: 5px;
+        }
+
+        /* Pied de page */
+        footer {
+            text-align: center;
+            background: #1e3c72;
+            color: #fff;
+            padding: 10px;
+            font-size: 14px;
+        }
+
+        footer a {
+            color: #ffd700;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <!-- En-tête -->
+    <header>
+        <h1>Politique de confidentialité</h1>
+        <nav>
+            <a href="index.html">Accueil</a>
+            <a href="features.html">Fonctionnalités</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <!-- Contenu principal -->
+    <main>
+        <h2>Notre engagement envers la protection de vos données</h2>
+        <section>
+            <h3>1. Consentement des données</h3>
+            <p>Nous collectons vos données personnelles uniquement après avoir obtenu votre consentement explicite. Vous pouvez retirer ce consentement à tout moment via votre profil utilisateur.</p>
+        </section>
+
+        <section>
+            <h3>2. Transparence et informations</h3>
+            <p>Nous sommes transparents sur les données collectées et leur utilisation. Nos finalités incluent :</p>
+            <ul>
+                <li>Optimisation de l'expérience utilisateur.</li>
+                <li>Envoi de notifications personnalisées.</li>
+                <li>Participation à des discussions et événements en ligne.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>3. Droits des utilisateurs</h3>
+            <p>Vous disposez des droits suivants sur vos données :</p>
+            <ul>
+                <li>Droit d'accès.</li>
+                <li>Droit de rectification.</li>
+                <li>Droit à l'effacement.</li>
+                <li>Droit de limitation du traitement.</li>
+            </ul>
+            <p>Pour exercer ces droits, veuillez contacter notre support.</p>
+        </section>
+
+        <section>
+            <h3>4. Sécurité des données</h3>
+            <p>Nous utilisons des mesures techniques et organisationnelles pour protéger vos données contre les accès non autorisés, les modifications ou les pertes accidentelles.</p>
+        </section>
+
+        <section>
+            <h3>5. Gestion des violations de données</h3>
+            <p>En cas de violation, nous informerons les autorités compétentes et les utilisateurs concernés dans les délais impartis par la réglementation.</p>
+        </section>
+
+        <section>
+            <h3>6. Transferts internationaux de données</h3>
+            <p>Si vos données sont transférées hors de l'Union européenne, nous garantissons leur sécurité via des mécanismes tels que les clauses contractuelles types.</p>
+        </section>
+
+        <section>
+            <h3>7. Formation et sensibilisation</h3>
+            <p>Nous formons notre équipe à respecter les principes de confidentialité et à gérer vos données de manière sécurisée.</p>
+        </section>
+    </main>
+
+    <!-- Pied de page -->
+    <footer>
+        <p>© 2024 Cyber Connect | <a href="index.html">Accueil</a> | <a href="contact.html">Contact</a></p>
+    </footer>
+</body>
+</html>
